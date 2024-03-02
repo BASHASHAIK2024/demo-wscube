@@ -1,1 +1,1 @@
-# demo-wscube
+# zomato landing project
